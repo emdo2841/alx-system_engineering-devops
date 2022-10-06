@@ -1,1 +1,1 @@
-command to execute file
+script that adds execute permission to the owner and the group owner

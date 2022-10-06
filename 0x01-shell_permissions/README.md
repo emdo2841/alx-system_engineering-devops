@@ -1,1 +1,1 @@
-create a file
+command to execute file

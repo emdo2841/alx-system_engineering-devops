@@ -1,1 +1,1 @@
-execute permission to all subdirectories of the current directory for the owner
+ates a directory called my_dir with permissions 751

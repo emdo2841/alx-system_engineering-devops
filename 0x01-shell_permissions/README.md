@@ -1,1 +1,1 @@
-script that adds execute permission to the owner and the group owner
+set the mode of the file

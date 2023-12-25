@@ -1,0 +1,1 @@
+solutin on shell navigation
